@@ -1,0 +1,80 @@
+*{
+    font-family: 'Arima Madurai', cursive;
+    padding: 0;
+    margin: 0;
+}
+
+/* this is for top heading text  */
+
+h1{
+    font-size: 50px;
+
+    
+}
+
+.text-heading{
+    color: yellowgreen;
+}
+
+.point{
+    color: rebeccapurple;
+}
+
+.text-health{
+    color: greenyellow;
+}
+
+.text-food{
+    color: tomato;
+}
+
+/* this is the end for top text heading */
+
+/*  this is start for top picture  */
+
+
+
+.half-width{
+    width: 50%;
+    margin-top: 35px;
+    margin-left: 25px;
+
+}
+
+.half-width img{
+    width: 80%;
+    margin-left: 100px;
+    align-items: right;
+}
+
+
+.introduction{
+    display: flex;
+}
+
+
+
+.mid-section{
+    display: flex;
+}
+
+
+.mid-text{
+    color: lightseagreen;
+}
+
+
+.cook{
+    height: auto;
+    width:inherit;
+}
+
+.cook h1{
+   text-align: center;
+    color: orange;
+    display: block;
+}
+
+.cook p{
+    text-align: center;
+}
